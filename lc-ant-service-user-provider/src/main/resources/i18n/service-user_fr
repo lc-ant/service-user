@@ -1,0 +1,2 @@
+role root is reserved=le rôle root est réservé
+user not found {}=utilisateur non trouvé: {{1}}
